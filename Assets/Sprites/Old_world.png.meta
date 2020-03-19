@@ -1,0 +1,3138 @@
+fileFormatVersion: 2
+guid: adf856f54a5b8d44488afe738138015c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3361698151732819873
+    second: Old_world_0
+  - first:
+      213: -4406144689757962859
+    second: Old_world_1
+  - first:
+      213: 8227686658938917376
+    second: Old_world_2
+  - first:
+      213: 3119795994124149425
+    second: Old_world_3
+  - first:
+      213: 6561952677128587971
+    second: Old_world_4
+  - first:
+      213: -812741048355856706
+    second: Old_world_5
+  - first:
+      213: 7253892873369305734
+    second: Old_world_6
+  - first:
+      213: 7632972430740047423
+    second: Old_world_7
+  - first:
+      213: 9074581393429255150
+    second: Old_world_8
+  - first:
+      213: -2196849862379654439
+    second: Old_world_9
+  - first:
+      213: 467349678943409238
+    second: Old_world_10
+  - first:
+      213: -4910555465052540037
+    second: Old_world_11
+  - first:
+      213: -2100262447331153535
+    second: Old_world_12
+  - first:
+      213: -2982285365220601054
+    second: Old_world_13
+  - first:
+      213: 4685548205860394434
+    second: Old_world_14
+  - first:
+      213: 6404887167614469144
+    second: Old_world_15
+  - first:
+      213: -720681599010111022
+    second: Old_world_16
+  - first:
+      213: -8997959749881837761
+    second: Old_world_17
+  - first:
+      213: -457548424163887715
+    second: Old_world_18
+  - first:
+      213: 2255639717658562822
+    second: Old_world_19
+  - first:
+      213: -3925908019886107044
+    second: Old_world_20
+  - first:
+      213: 2009567517424096870
+    second: Old_world_21
+  - first:
+      213: -8932609108442299819
+    second: Old_world_22
+  - first:
+      213: 6641114771974939711
+    second: Old_world_23
+  - first:
+      213: -5219018136041614034
+    second: Old_world_24
+  - first:
+      213: -2795867278644008052
+    second: Old_world_25
+  - first:
+      213: 1090078779706956973
+    second: Old_world_26
+  - first:
+      213: 2841185009188562376
+    second: Old_world_27
+  - first:
+      213: 8694619111043558102
+    second: Old_world_28
+  - first:
+      213: -5745840803403408022
+    second: Old_world_29
+  - first:
+      213: -378080416428411828
+    second: Old_world_30
+  - first:
+      213: -6203236991636544503
+    second: Old_world_31
+  - first:
+      213: 6274860757670098440
+    second: Old_world_32
+  - first:
+      213: -2666564333698355929
+    second: Old_world_33
+  - first:
+      213: -688926755007451275
+    second: Old_world_34
+  - first:
+      213: -7948936944866607860
+    second: Old_world_35
+  - first:
+      213: -8122623919623756661
+    second: Old_world_36
+  - first:
+      213: -2766549942051359177
+    second: Old_world_37
+  - first:
+      213: 8861431214847834871
+    second: Old_world_38
+  - first:
+      213: -1919444839721411039
+    second: Old_world_39
+  - first:
+      213: 1973146874846253089
+    second: Old_world_40
+  - first:
+      213: -159975082930147651
+    second: Old_world_41
+  - first:
+      213: -8917940890837997649
+    second: Old_world_42
+  - first:
+      213: -7665715304871743384
+    second: Old_world_43
+  - first:
+      213: -3106264859052237358
+    second: Old_world_44
+  - first:
+      213: 2243251770465703758
+    second: Old_world_45
+  - first:
+      213: 828226119509109878
+    second: Old_world_46
+  - first:
+      213: -8903576124196941800
+    second: Old_world_47
+  - first:
+      213: 8605935124857325960
+    second: Old_world_48
+  - first:
+      213: 3816002900254230992
+    second: Old_world_49
+  - first:
+      213: -586392848058764514
+    second: Old_world_50
+  - first:
+      213: -7563916986197810577
+    second: Old_world_51
+  - first:
+      213: 4415990583779831857
+    second: Old_world_52
+  - first:
+      213: 4043000415300095747
+    second: Old_world_53
+  - first:
+      213: -1684114412711736009
+    second: Old_world_54
+  - first:
+      213: 5932361044158468528
+    second: Old_world_55
+  - first:
+      213: 7553276942645775278
+    second: Old_world_56
+  - first:
+      213: 7343954686397023384
+    second: Old_world_57
+  - first:
+      213: -4863663401863777879
+    second: Old_world_58
+  - first:
+      213: 2926966124461679493
+    second: Old_world_59
+  - first:
+      213: 3838633640333343424
+    second: Old_world_60
+  - first:
+      213: -6770498377819472960
+    second: Old_world_61
+  - first:
+      213: 3417978380107543252
+    second: Old_world_62
+  - first:
+      213: 9204471954900694215
+    second: Old_world_63
+  - first:
+      213: 5838397358482518696
+    second: Old_world_64
+  - first:
+      213: 8592515601277889796
+    second: Old_world_65
+  - first:
+      213: 3288063243746700479
+    second: Old_world_66
+  - first:
+      213: -8248730682439197206
+    second: Old_world_67
+  - first:
+      213: -6252029346065520257
+    second: Old_world_68
+  - first:
+      213: -746804492276290861
+    second: Old_world_69
+  - first:
+      213: 321504113547330149
+    second: Old_world_70
+  - first:
+      213: 9114088489508663259
+    second: Old_world_71
+  - first:
+      213: -1339687181256539274
+    second: Old_world_72
+  - first:
+      213: -5895068583326379560
+    second: Old_world_73
+  - first:
+      213: 5897575152549758457
+    second: Old_world_74
+  - first:
+      213: -8931810134744972243
+    second: Old_world_75
+  - first:
+      213: -3562638268904559282
+    second: Old_world_76
+  - first:
+      213: 616004522382440080
+    second: Old_world_77
+  - first:
+      213: 8222269356434521862
+    second: Old_world_78
+  - first:
+      213: 6721992581732223246
+    second: Old_world_79
+  - first:
+      213: -6840029420801368155
+    second: Old_world_80
+  - first:
+      213: -7407257877115305759
+    second: Old_world_81
+  - first:
+      213: 8770096704932050273
+    second: Old_world_82
+  - first:
+      213: 8792887099747755394
+    second: Old_world_83
+  - first:
+      213: 4960929984384971662
+    second: Old_world_84
+  - first:
+      213: -2155811110529381336
+    second: Old_world_85
+  - first:
+      213: -4125363790743269421
+    second: Old_world_86
+  - first:
+      213: 967201681116473724
+    second: Old_world_87
+  - first:
+      213: 3582983850399850880
+    second: Old_world_88
+  - first:
+      213: 597405779804992639
+    second: Old_world_89
+  - first:
+      213: -8116640847500725479
+    second: Old_world_90
+  - first:
+      213: -2666235781569040690
+    second: Old_world_91
+  - first:
+      213: 2025325404344152217
+    second: Old_world_92
+  - first:
+      213: -5369491671794528910
+    second: Old_world_93
+  - first:
+      213: 8395119978524485280
+    second: Old_world_94
+  - first:
+      213: -6635762931696787938
+    second: Old_world_95
+  - first:
+      213: -6814816325091611827
+    second: Old_world_96
+  - first:
+      213: -2813561735165247549
+    second: Old_world_97
+  - first:
+      213: -3433162389610620102
+    second: Old_world_98
+  - first:
+      213: 765520099332556056
+    second: Old_world_99
+  - first:
+      213: 1777655464443077648
+    second: Old_world_100
+  - first:
+      213: 4435701056080494246
+    second: Old_world_101
+  - first:
+      213: -214577016207850033
+    second: Old_world_102
+  - first:
+      213: 7498957816780380741
+    second: Old_world_103
+  - first:
+      213: -2582957586285070417
+    second: Old_world_104
+  - first:
+      213: 1008821735897253673
+    second: Old_world_105
+  - first:
+      213: -4343119852959108747
+    second: Old_world_106
+  - first:
+      213: 5640208009696670426
+    second: Old_world_107
+  - first:
+      213: 8158875318716447212
+    second: Old_world_108
+  - first:
+      213: 2400446618652115057
+    second: Old_world_109
+  - first:
+      213: 1528129713900480223
+    second: Old_world_110
+  - first:
+      213: 931059811035667385
+    second: Old_world_111
+  - first:
+      213: -404528691062240514
+    second: Old_world_112
+  - first:
+      213: -3223053164122655811
+    second: Old_world_113
+  - first:
+      213: -1003445444930212301
+    second: Old_world_114
+  - first:
+      213: -7440807231636283323
+    second: Old_world_115
+  - first:
+      213: -7944005791642608126
+    second: Old_world_116
+  - first:
+      213: -5147107208000840943
+    second: Old_world_117
+  - first:
+      213: -2551418069838410426
+    second: Old_world_118
+  - first:
+      213: -1226584939672208896
+    second: Old_world_119
+  - first:
+      213: 2217875571865651001
+    second: Old_world_120
+  - first:
+      213: -6872865771524941976
+    second: Old_world_121
+  - first:
+      213: 979944076927909521
+    second: Old_world_122
+  - first:
+      213: 7166048762497317178
+    second: Old_world_123
+  - first:
+      213: -2583409725997504993
+    second: Old_world_124
+  - first:
+      213: 2224628291600218881
+    second: Old_world_125
+  - first:
+      213: 7527926539030881725
+    second: Old_world_126
+  - first:
+      213: 7340323433144452923
+    second: Old_world_127
+  - first:
+      213: -2558091727991108564
+    second: Old_world_128
+  - first:
+      213: 7617781325261999225
+    second: Old_world_129
+  - first:
+      213: 2626413832023922741
+    second: Old_world_130
+  - first:
+      213: 4359650692628849098
+    second: Old_world_131
+  - first:
+      213: 2588115057249740298
+    second: Old_world_132
+  - first:
+      213: -6608492876586585432
+    second: Old_world_133
+  - first:
+      213: -2200715982814957921
+    second: Old_world_134
+  - first:
+      213: -6933695046214069017
+    second: Old_world_135
+  - first:
+      213: -3994265339728506487
+    second: Old_world_136
+  - first:
+      213: 6831966510828357777
+    second: Old_world_137
+  - first:
+      213: -8924498899186455659
+    second: Old_world_138
+  - first:
+      213: -589646402139478238
+    second: Old_world_139
+  - first:
+      213: 3811078607665146863
+    second: Old_world_140
+  - first:
+      213: -6929165597452594316
+    second: Old_world_141
+  - first:
+      213: -5106482913451786786
+    second: Old_world_142
+  - first:
+      213: 2178179097824691598
+    second: Old_world_143
+  - first:
+      213: 2746594113415414620
+    second: Old_world_144
+  - first:
+      213: 812003298825793374
+    second: Old_world_145
+  - first:
+      213: 2627690405139536660
+    second: Old_world_146
+  - first:
+      213: 5563640488386735111
+    second: Old_world_147
+  - first:
+      213: 6306106736094713830
+    second: Old_world_148
+  - first:
+      213: 8713373553275523731
+    second: Old_world_149
+  - first:
+      213: -7157721943342579172
+    second: Old_world_150
+  - first:
+      213: 5191839798037193027
+    second: Old_world_151
+  - first:
+      213: -3778790330418232562
+    second: Old_world_152
+  - first:
+      213: 8634723400324101915
+    second: Old_world_153
+  - first:
+      213: -1686568156267282009
+    second: Old_world_154
+  - first:
+      213: 597811083103058105
+    second: Old_world_155
+  - first:
+      213: 2270201993486634181
+    second: Old_world_156
+  - first:
+      213: -772835647651004070
+    second: Old_world_157
+  - first:
+      213: 4130730141543956399
+    second: Old_world_158
+  - first:
+      213: 2965634103846804851
+    second: Old_world_159
+  - first:
+      213: 1809078842926673117
+    second: Old_world_160
+  - first:
+      213: -7443659421473033502
+    second: Old_world_161
+  - first:
+      213: -1673500621267198216
+    second: Old_world_162
+  - first:
+      213: 3836360362279347734
+    second: Old_world_163
+  - first:
+      213: 5812953554637894831
+    second: Old_world_164
+  - first:
+      213: 1799099570387457770
+    second: Old_world_165
+  - first:
+      213: 6800549632825318970
+    second: Old_world_166
+  - first:
+      213: -5947547423408729257
+    second: Old_world_167
+  - first:
+      213: -7497735952338451573
+    second: Old_world_168
+  - first:
+      213: -6033890902287320949
+    second: Old_world_169
+  - first:
+      213: 4938388200075444373
+    second: Old_world_170
+  - first:
+      213: 7880549442349622679
+    second: Old_world_171
+  - first:
+      213: 11381736320869090
+    second: Old_world_172
+  - first:
+      213: -2945181171795449841
+    second: Old_world_173
+  - first:
+      213: 6183781085763923026
+    second: Old_world_174
+  - first:
+      213: -5753988261197318440
+    second: Old_world_175
+  - first:
+      213: -6790768335305532701
+    second: Old_world_176
+  - first:
+      213: 7532701158556047706
+    second: Old_world_177
+  - first:
+      213: 2518362362733876583
+    second: Old_world_178
+  - first:
+      213: 6280600249293662255
+    second: Old_world_179
+  - first:
+      213: -7820518300252108017
+    second: Old_world_180
+  - first:
+      213: -4551282318973677249
+    second: Old_world_181
+  - first:
+      213: 3927546586154937078
+    second: Old_world_182
+  - first:
+      213: 847617702537461384
+    second: Old_world_183
+  - first:
+      213: -4403748567714775823
+    second: Old_world_184
+  - first:
+      213: -8056334271859656193
+    second: Old_world_185
+  - first:
+      213: 8865916339510324177
+    second: Old_world_186
+  - first:
+      213: -4946483720412503685
+    second: Old_world_187
+  - first:
+      213: 6639152275821466843
+    second: Old_world_188
+  - first:
+      213: 291343134617136328
+    second: Old_world_189
+  - first:
+      213: -4084720736037154296
+    second: Old_world_190
+  - first:
+      213: -8917460817281163869
+    second: Old_world_191
+  - first:
+      213: -2682755379914775793
+    second: Old_world_192
+  - first:
+      213: -7883269257795511220
+    second: Old_world_193
+  - first:
+      213: -5202242911761059135
+    second: Old_world_194
+  - first:
+      213: -4968215633804104701
+    second: Old_world_195
+  - first:
+      213: -3268706453642136754
+    second: Old_world_196
+  - first:
+      213: -5805280489449865049
+    second: Old_world_197
+  - first:
+      213: -3979183477909243663
+    second: Old_world_198
+  - first:
+      213: 1458252981310573234
+    second: Old_world_199
+  - first:
+      213: 8469517027452691904
+    second: Old_world_200
+  - first:
+      213: -213916349196213874
+    second: Old_world_201
+  - first:
+      213: 3744712309026772276
+    second: Old_world_202
+  - first:
+      213: -2295813424485586175
+    second: Old_world_203
+  - first:
+      213: -6649266801123540789
+    second: Old_world_204
+  - first:
+      213: 6926397876871997167
+    second: Old_world_205
+  - first:
+      213: -6048531625423412175
+    second: Old_world_206
+  - first:
+      213: 94126226725265528
+    second: Old_world_207
+  - first:
+      213: 3612406927123650678
+    second: Old_world_208
+  - first:
+      213: 7026920218448751760
+    second: Old_world_209
+  - first:
+      213: 4548548944952508422
+    second: Old_world_210
+  - first:
+      213: 9130885269864749121
+    second: Old_world_211
+  - first:
+      213: -5119310430178752282
+    second: Old_world_212
+  - first:
+      213: 4093484372880674463
+    second: Old_world_213
+  - first:
+      213: 725032314982723263
+    second: Old_world_214
+  - first:
+      213: 3414422423360309387
+    second: Old_world_215
+  - first:
+      213: 1542452834594384667
+    second: Old_world_216
+  - first:
+      213: 2251141426993834668
+    second: Old_world_217
+  - first:
+      213: 8026715255808649461
+    second: Old_world_218
+  - first:
+      213: -5980798094131795476
+    second: Old_world_219
+  - first:
+      213: -7502999413247836610
+    second: Old_world_220
+  - first:
+      213: 3813240077424857763
+    second: Old_world_221
+  - first:
+      213: 2910937617767848704
+    second: Old_world_222
+  - first:
+      213: 3301359487593656648
+    second: Old_world_223
+  - first:
+      213: -5461791879975750097
+    second: Old_world_224
+  - first:
+      213: 9159671809596026771
+    second: Old_world_225
+  - first:
+      213: -575230136851468848
+    second: Old_world_226
+  - first:
+      213: 5669581840626109222
+    second: Old_world_227
+  - first:
+      213: -5672290978121591275
+    second: Old_world_228
+  - first:
+      213: 8420907884396556215
+    second: Old_world_229
+  - first:
+      213: -4806106840357325281
+    second: Old_world_230
+  - first:
+      213: 1459109478976475568
+    second: Old_world_231
+  - first:
+      213: -8547770579166682629
+    second: Old_world_232
+  - first:
+      213: -3090452545893813398
+    second: Old_world_233
+  - first:
+      213: -6689022771727391417
+    second: Old_world_234
+  - first:
+      213: -6262807228932750066
+    second: Old_world_235
+  - first:
+      213: -5911573500089827049
+    second: Old_world_236
+  - first:
+      213: -6716117079786441266
+    second: Old_world_237
+  - first:
+      213: 1157920836227861176
+    second: Old_world_238
+  - first:
+      213: -5984768660929850371
+    second: Old_world_239
+  - first:
+      213: -226898652232676801
+    second: Old_world_240
+  - first:
+      213: -1388316497035057739
+    second: Old_world_241
+  - first:
+      213: 5199739975005548992
+    second: Old_world_242
+  - first:
+      213: 4103920100126811027
+    second: Old_world_243
+  - first:
+      213: 7502612602950401446
+    second: Old_world_244
+  - first:
+      213: 5477178504097721709
+    second: Old_world_245
+  - first:
+      213: 5819203811937227725
+    second: Old_world_246
+  - first:
+      213: 1065582041110369826
+    second: Old_world_247
+  - first:
+      213: 2749645206285186021
+    second: Old_world_248
+  - first:
+      213: -196179491856436574
+    second: Old_world_249
+  - first:
+      213: 4790202393465259803
+    second: Old_world_250
+  - first:
+      213: 4497233953398437947
+    second: Old_world_251
+  - first:
+      213: 197061340169026579
+    second: Old_world_252
+  - first:
+      213: 7759230972382300744
+    second: Old_world_253
+  - first:
+      213: -8076171345152036680
+    second: Old_world_254
+  - first:
+      213: 8111809703695129767
+    second: Old_world_255
+  - first:
+      213: 7060146135255630035
+    second: Old_world_256
+  - first:
+      213: -7000422305404405080
+    second: Old_world_257
+  - first:
+      213: 4661036168380230155
+    second: Old_world_258
+  - first:
+      213: -4417206181146187613
+    second: Old_world_259
+  - first:
+      213: -3650796413042633211
+    second: Old_world_260
+  - first:
+      213: -6165253103638374762
+    second: Old_world_261
+  - first:
+      213: 1277306453028922847
+    second: Old_world_262
+  - first:
+      213: -7619820046592631320
+    second: Old_world_263
+  - first:
+      213: 8986770644634222331
+    second: Old_world_264
+  - first:
+      213: -2094802514358459553
+    second: Old_world_265
+  - first:
+      213: 4481841167496845697
+    second: Old_world_266
+  - first:
+      213: 7711320327409606431
+    second: Old_world_267
+  - first:
+      213: -7860638471987175699
+    second: Old_world_268
+  - first:
+      213: 3800583699063310446
+    second: Old_world_269
+  - first:
+      213: -2272536793836449612
+    second: Old_world_270
+  - first:
+      213: 4534149345586862908
+    second: Old_world_271
+  - first:
+      213: -3313574264700213783
+    second: Old_world_272
+  - first:
+      213: 3186634189466762102
+    second: Old_world_273
+  - first:
+      213: 9194478312631403136
+    second: Old_world_274
+  - first:
+      213: -1443287652731286622
+    second: Old_world_275
+  - first:
+      213: -661043018656466475
+    second: Old_world_276
+  - first:
+      213: -8669775253840471242
+    second: Old_world_277
+  - first:
+      213: 365269755112686791
+    second: Old_world_278
+  - first:
+      213: -3031598342719678011
+    second: Old_world_279
+  - first:
+      213: 5129773178073999789
+    second: Old_world_280
+  - first:
+      213: 5736762189896804790
+    second: Old_world_281
+  - first:
+      213: -4062056237317679930
+    second: Old_world_282
+  - first:
+      213: 8166407833287300271
+    second: Old_world_283
+  - first:
+      213: 7885957076993165197
+    second: Old_world_284
+  - first:
+      213: 5639844772042981944
+    second: Old_world_285
+  - first:
+      213: 3969162948895663428
+    second: Old_world_286
+  - first:
+      213: 581931547800037955
+    second: Old_world_287
+  - first:
+      213: 5644410434035671999
+    second: Old_world_288
+  - first:
+      213: -5492541597526413256
+    second: Old_world_289
+  - first:
+      213: 7908193023229116137
+    second: Old_world_290
+  - first:
+      213: 7563715537125291360
+    second: Old_world_291
+  - first:
+      213: -4622457573288552309
+    second: Old_world_292
+  - first:
+      213: -6898744854459147848
+    second: Old_world_293
+  - first:
+      213: 7347389914005269727
+    second: Old_world_294
+  - first:
+      213: 8639665979183070845
+    second: Old_world_295
+  - first:
+      213: 6109789855545017358
+    second: Old_world_296
+  - first:
+      213: 7816595272258577452
+    second: Old_world_297
+  - first:
+      213: -6955150115168299692
+    second: Old_world_298
+  - first:
+      213: -7545275203128414901
+    second: Old_world_299
+  - first:
+      213: -2269748558022287115
+    second: Old_world_300
+  - first:
+      213: -4776595927175737783
+    second: Old_world_301
+  - first:
+      213: -3954052152153505168
+    second: Old_world_302
+  - first:
+      213: -5902449644679299618
+    second: Old_world_303
+  - first:
+      213: 8313520304658425207
+    second: Old_world_304
+  - first:
+      213: -4995494937667334818
+    second: Old_world_305
+  - first:
+      213: 3805757818881226435
+    second: Old_world_306
+  - first:
+      213: 5230950075284632570
+    second: Old_world_307
+  - first:
+      213: 803172911480452504
+    second: Old_world_308
+  - first:
+      213: -4726570417209692937
+    second: Old_world_309
+  - first:
+      213: -1585503105669380408
+    second: Old_world_310
+  - first:
+      213: 8418472814364981623
+    second: Old_world_311
+  - first:
+      213: 3687040261697187010
+    second: Old_world_312
+  - first:
+      213: -3754350222969120430
+    second: Old_world_313
+  - first:
+      213: -1524160104532386810
+    second: Old_world_314
+  - first:
+      213: 2068493225087756594
+    second: Old_world_315
+  - first:
+      213: -8754775674958363219
+    second: Old_world_316
+  - first:
+      213: -4233948480659797192
+    second: Old_world_317
+  - first:
+      213: -5866569077432067015
+    second: Old_world_318
+  - first:
+      213: 1942010086782442268
+    second: Old_world_319
+  - first:
+      213: -810170455993328175
+    second: Old_world_320
+  - first:
+      213: 3194627872551618980
+    second: Old_world_321
+  - first:
+      213: -3645733988702286973
+    second: Old_world_322
+  - first:
+      213: 4437512698098148004
+    second: Old_world_323
+  - first:
+      213: 7229419189510178037
+    second: Old_world_324
+  - first:
+      213: -6192071933112107205
+    second: Old_world_325
+  - first:
+      213: 7066373320149001444
+    second: Old_world_326
+  - first:
+      213: -3409451186741194727
+    second: Old_world_327
+  - first:
+      213: -7623186713179158194
+    second: Old_world_328
+  - first:
+      213: -5102012954220808571
+    second: Old_world_329
+  - first:
+      213: -49438288083424715
+    second: Old_world_330
+  - first:
+      213: 6011146993104202425
+    second: Old_world_331
+  - first:
+      213: 4200701624660897078
+    second: Old_world_332
+  - first:
+      213: -8038532763499507238
+    second: Old_world_333
+  - first:
+      213: -6792769806056610731
+    second: Old_world_334
+  - first:
+      213: -1730879043221930550
+    second: Old_world_335
+  - first:
+      213: -6443909260339164843
+    second: Old_world_336
+  - first:
+      213: 3016558716580784140
+    second: Old_world_337
+  - first:
+      213: 5978507984016613693
+    second: Old_world_338
+  - first:
+      213: -6227314149618505712
+    second: Old_world_339
+  - first:
+      213: 6764053479820055391
+    second: Old_world_340
+  - first:
+      213: -4316043845439588498
+    second: Old_world_341
+  - first:
+      213: -1200815987869204070
+    second: Old_world_342
+  - first:
+      213: 4163928931493446671
+    second: Old_world_343
+  - first:
+      213: -312017900143374857
+    second: Old_world_344
+  - first:
+      213: 1762808056624072108
+    second: Old_world_345
+  - first:
+      213: 4620842746772407673
+    second: Old_world_346
+  - first:
+      213: -1669447807526160434
+    second: Old_world_347
+  - first:
+      213: -3564614240147261948
+    second: Old_world_348
+  - first:
+      213: -2785256722318559044
+    second: Old_world_349
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Old_world_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a73f1078a627ae20800000000000000
+      internalID: 3361698151732819873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59db00adfba3ad2c0800000000000000
+      internalID: -4406144689757962859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00256459c6d9e2270800000000000000
+      internalID: 8227686658938917376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2e4716dedbb4b20800000000000000
+      internalID: 3119795994124149425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca4c21713db01b50800000000000000
+      internalID: 6561952677128587971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebede56925098b4f0800000000000000
+      internalID: -812741048355856706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6824ae3b2210ba460800000000000000
+      internalID: 7253892873369305734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f364c9a0cf3cde960800000000000000
+      internalID: 7632972430740047423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee358b8b2b36fed70800000000000000
+      internalID: 9074581393429255150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2bef780b83381e0800000000000000
+      internalID: -2196849862379654439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654905f8e0c5c7600800000000000000
+      internalID: 467349678943409238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73b0bf52d33adbb0800000000000000
+      internalID: -4910555465052540037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189ebbb8e6e5ad2e0800000000000000
+      internalID: -2100262447331153535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2231e2bd24bcc96d0800000000000000
+      internalID: -2982285365220601054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c51744a449660140800000000000000
+      internalID: 4685548205860394434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8144e14c1fab2e850800000000000000
+      internalID: 6404887167614469144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -8}
+        - {x: -4, y: -3}
+        - {x: 0, y: 1}
+        - {x: 4, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: -7}
+        - {x: 5, y: -7}
+        - {x: 5, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d187de67ef9ff5f0800000000000000
+      internalID: -720681599010111022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37c70dd743d02380800000000000000
+      internalID: -8997959749881837761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95fb26e12676a9f0800000000000000
+      internalID: -457548424163887715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6011d405f54ad4f10800000000000000
+      internalID: 2255639717658562822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56d4ddc47f5489c0800000000000000
+      internalID: -3925908019886107044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6661a3c820b63eb10800000000000000
+      internalID: 2009567517424096870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552c0e5c75ff80480800000000000000
+      internalID: -8932609108442299819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f346a20f2baf92c50800000000000000
+      internalID: 6641114771974939711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -8}
+        - {x: -3, y: 8}
+        - {x: 3, y: 8}
+        - {x: 3, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e251be428a25297b0800000000000000
+      internalID: -5219018136041614034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b2941f5851339d0800000000000000
+      internalID: -2795867278644008052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacdf99efdcb02f00800000000000000
+      internalID: 1090078779706956973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c569dd66baed6720800000000000000
+      internalID: 2841185009188562376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dae213f30e79a870800000000000000
+      internalID: 8694619111043558102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dd1396b3ca240b0800000000000000
+      internalID: -5745840803403408022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44b04a4dd9c0caf0800000000000000
+      internalID: -378080416428411828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904e0ff72dca9e9a0800000000000000
+      internalID: -6203236991636544503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806f6fb0d98c41750800000000000000
+      internalID: 6274860757670098440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dee27ddd57efad0800000000000000
+      internalID: -2666564333698355929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -8}
+        - {x: -5, y: 8}
+        - {x: 5, y: 8}
+        - {x: 5, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fa48334c07076f0800000000000000
+      internalID: -688926755007451275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d3f33c6f3bfa190800000000000000
+      internalID: -7948936944866607860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b842cb2a494a64f80800000000000000
+      internalID: -8122623919623756661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736b6aa4c7d3b99d0800000000000000
+      internalID: -2766549942051359177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa30927db02afa70800000000000000
+      internalID: 8861431214847834871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ed2728613cc55e0800000000000000
+      internalID: -1919444839721411039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12012e4e0a6026b10800000000000000
+      internalID: 1973146874846253089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbee8097287a7cdf0800000000000000
+      internalID: -159975082930147651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7aba1520c1d3480800000000000000
+      internalID: -8917940890837997649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86038df7b88ed9590800000000000000
+      internalID: -7665715304871743384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd99e1819454e4d0800000000000000
+      internalID: -3106264859052237358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47df589991a12f10800000000000000
+      internalID: 2243251770465703758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_46
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 112
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -8}
+        - {x: -5, y: 8}
+        - {x: 5, y: 8}
+        - {x: 5, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c6a0f74437e7b00800000000000000
+      internalID: 828226119509109878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810979e20b4207480800000000000000
+      internalID: -8903576124196941800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8898d2d566c6e6770800000000000000
+      internalID: 8605935124857325960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d983837b6a25f430800000000000000
+      internalID: 3816002900254230992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13b0a0cfc6bcd7f0800000000000000
+      internalID: -586392848058764514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62e22f8391970790800000000000000
+      internalID: -7563916986197810577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130baadf900c84d30800000000000000
+      internalID: 4415990583779831857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f08bcf47f9b1830800000000000000
+      internalID: 4043000415300095747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d833d4dd2d0a8e0800000000000000
+      internalID: -1684114412711736009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b15e6c40faf35250800000000000000
+      internalID: 5932361044158468528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabcc804c51a2d860800000000000000
+      internalID: 7553276942645775278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894824990e7fae560800000000000000
+      internalID: 7343954686397023384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a177d0a7ebc08cb0800000000000000
+      internalID: -4863663401863777879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583e326be2cae9820800000000000000
+      internalID: 2926966124461679493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cafeea35f0954530800000000000000
+      internalID: 3838633640333343424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb36b5d89b5a02a0800000000000000
+      internalID: -6770498377819472960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2764c3a391f6f20800000000000000
+      internalID: 3417978380107543252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4b6e0c97adcbf70800000000000000
+      internalID: 9204471954900694215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2fde1e677260150800000000000000
+      internalID: 5838397358482518696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dab2d0a6fbe3770800000000000000
+      internalID: 8592515601277889796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc6a8a691c81ad20800000000000000
+      internalID: 3288063243746700479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed9851e52f968d80800000000000000
+      internalID: -8248730682439197206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7962763f645c39a0800000000000000
+      internalID: -6252029346065520257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daa4316541d2a5f0800000000000000
+      internalID: -746804492276290861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562c0d1b946367400800000000000000
+      internalID: 321504113547330149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfe3a4513fbb7e70800000000000000
+      internalID: 9114088489508663259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6734f0b4b99786de0800000000000000
+      internalID: -1339687181256539274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1144c5b52803ea0800000000000000
+      internalID: -5895068583326379560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f506e3ca5568d150800000000000000
+      internalID: 5897575152549758457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24ca455106db0480800000000000000
+      internalID: -8931810134744972243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_76
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d2bbebe57fe8ec0800000000000000
+      internalID: -3562638268904559282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096b3a079dc7c8800800000000000000
+      internalID: 616004522382440080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ffbdd8a6e5b1270800000000000000
+      internalID: 8222269356434521862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c5f073a0594d50800000000000000
+      internalID: 6721992581732223246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afd9e75b755311a0800000000000000
+      internalID: -6840029420801368155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e004d2c432243990800000000000000
+      internalID: -7407257877115305759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1657c47bc74a5b970800000000000000
+      internalID: 8770096704932050273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28564920b3c960a70800000000000000
+      internalID: 8792887099747755394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83b9d26983c8d440800000000000000
+      internalID: 4960929984384971662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c4e0a87350512e0800000000000000
+      internalID: -2155811110529381336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df0d7b4d73cfb6c0800000000000000
+      internalID: -4125363790743269421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79ab15fdc03c6d00800000000000000
+      internalID: 967201681116473724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_88
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0816b0714d059b130800000000000000
+      internalID: 3582983850399850880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74ba0c34696a4800800000000000000
+      internalID: 597405779804992639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9133b4b2726eb5f80800000000000000
+      internalID: -8116640847500725479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece2428dea0affad0800000000000000
+      internalID: -2666235781569040690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_world_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990f18089b66b1c10800000000000000
+      internalID: 2025325404344152217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
