@@ -33,6 +33,7 @@ public class PlayerController : MonoBehaviour
     private Animator anim;                      //armazena animator do jogador
     private Collider2D col;                     //armazena collider do jogador
 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -47,7 +48,7 @@ public class PlayerController : MonoBehaviour
         //Funções de checagem de inputs e checagens de física são chamadas no Update
 
         CheckInputs();
-        PhysicsCheck();       
+        PhysicsCheck();      
 
     }
 
@@ -175,7 +176,8 @@ public class PlayerController : MonoBehaviour
 
     void ResetClimbing()
     {
-        
+        if (!col.isTrigger)
+            return;
         //Função serve para passar movimento para verdadeiro e tirar collider de trigger
         //Enquanto estiver se colidindo com o chão, permanece em trigger
         //Isso impede de ficar preso numa plataforma
@@ -185,7 +187,7 @@ public class PlayerController : MonoBehaviour
             Invoke("ResetClimbing", 0.1f);
         }
         else
-        {
+        {            
             col.isTrigger = false;
         }
 
@@ -335,5 +337,5 @@ public class PlayerController : MonoBehaviour
         return hit;
     }
 
-    
+   
 }
